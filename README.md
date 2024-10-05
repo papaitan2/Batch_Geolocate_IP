@@ -7,3 +7,5 @@ The object of this repository is batch Geolocation of IP addresses with python C
 The option to do it from Google Colab and Drive has been implemented
 
 
+https://github.com/papaitan2/Batch_Geolocate_IP/blob/main/Batch_Geolocate_IP_01.png
+
